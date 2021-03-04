@@ -47,7 +47,7 @@ public class Main extends Script {
         return random(1000, 3000);
     }
 
-
+/*
     public void onPaint(final Graphics2D g) {
 
         Image background = null;
@@ -58,6 +58,6 @@ public class Main extends Script {
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }
+    }*/
 }
 
