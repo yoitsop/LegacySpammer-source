@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OPSpammer">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="OPSpammer.jar">
+      <element id="module-output" name="OPSpammer" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
